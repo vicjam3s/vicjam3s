@@ -35,14 +35,14 @@ Whether it's a web application, brand website, backend system, or digital produc
 ## 💻 Tech Stack & Skills
 
 ### 🌐 Frontend Development
-<p> <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,bootstrap" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" /> </p>
 
 - Responsive UI & UX design
 - Modern component-based architectures
 - Performance-focused layouts
 
 ### 🧠 Backend Development
-<p> <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,postgresql,mysql" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=python,django,nodejs,postgresql,sqlite" /> </p>
 
 - RESTful APIs & web services
 - Authentication & authorization systems
