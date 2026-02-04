@@ -12,7 +12,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=800&color=4F46E5&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer;Frontend+%2B+Backend+Engineer;Website+Designer+%26+UI+Craftsman;Private+Pilot+%7C+Aviation+Enthusiast;Digital+Marketer+%7C+Upcoming+Realtor;Building+Clean%2C+Scalable+%26+Impactful+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=800&color=4F46E5&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer;Frontend+%2B+Back[...]
 </p>
 
 
@@ -138,6 +138,35 @@ If you're looking for someone who:
 ✓ Builds with long-term vision  
 
 **📬 Reach out** — I'm always open to collaborations, projects, and meaningful conversations.
+
+---
+
+### 🔖 Pinned Repositories
+
+Showcasing a few repositories you asked for — "mr-entrepreneur", "optima", "reality", and "solstice-properties". If these live under your account (github.com/vicjam3s/...), these card images will render live and link to the repos.
+
+<p align="center">
+  <a href="https://github.com/vicjam3s/mr-entrepreneur" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vicjam3s&repo=mr-entrepreneur&theme=default" alt="mr-entrepreneur" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/vicjam3s/optima" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vicjam3s&repo=optima&theme=default" alt="optima" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/vicjam3s/reality" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vicjam3s&repo=reality&theme=default" alt="reality" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/vicjam3s/solstice-properties" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vicjam3s&repo=solstice-properties&theme=default" alt="solstice-properties" />
+  </a>
+</p>
+
+- mr-entrepreneur — A brief one-line description of this project. (Replace this with the actual short description you prefer.)
+- optima — A brief one-line description of this project. (Replace this with the actual short description you prefer.)
+- reality — A brief one-line description of this project. (Replace this with the actual short description you prefer.)
+- solstice-properties — A brief one-line description of this project. (Replace this with the actual short description you prefer.)
 
 ---
 
