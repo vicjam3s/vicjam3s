@@ -1,21 +1,27 @@
 <!-- ===================== HERO SECTION ===================== -->
 
 <h1 align="center">
-  Hi there 👋, I'm <span style="color:#4F46E5;">Victor James</span>
+  <!-- Animated gradient name (flashy letters) -->
+  <img alt="Victor James - Animated Gradient" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='900' height='120' viewBox='0 0 900 120'><defs><linearGradient id='g' x1='0' x2='1' y1='0' y2='0'><stop offset='0%' stop-color='%234F46E5'><animate attributeName='stop-color' values='%234F46E5;%23EC4899;%23F59E0B;%234F46E5' dur='4s' repeatCount='indefinite'/></stop><stop offset='100%' stop-color='%230EA5E9'><animate attributeName='stop-color' values='%230EA5E9;%23F472B6;%23FCD34D;%230EA5E9' dur='4s' begin='0.5s' repeatCount='indefinite'/></stop></linearGradient><filter id='f' x='-50%25' y='-50%25' width='200%25' height='200%25'><feGaussianBlur stdDeviation='0.6' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs><rect width='100%25' height='100%25' fill='transparent'/><text x='50%25' y='58' font-family='JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, "Roboto Mono", monospace' font-size='48' text-anchor='middle' fill='url(%23g)' filter='url(%23f)'>Victor James</text><g opacity='0.9'><circle cx='780' cy='18' r='3' fill='%23FFF59D'><animate attributeName='r' values='1;4;1' dur='1.8s' repeatCount='indefinite' /></circle><circle cx='820' cy='36' r='2' fill='%23FFD6EA'><animate attributeName='r' values='1;5;1' dur='2.1s' repeatCount='indefinite' /></circle><circle cx='840' cy='12' r='2.5' fill='%23C7F9FF'><animate attributeName='r' values='0.8;4;0.8' dur='1.6s' repeatCount='indefinite' /></circle></g></svg>" />
 </h1>
 
 <h2 align="center">
   VicGrowth.Co | vicjam3s
+</h2>
 
 <h3 align="center">
   Web & Software Developer • Private Pilot ✈️ • Digital Marketer • Aviation & Car Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=800&color=4F46E5&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer;Frontend+%2B+Back[...]
+  <!-- Typing SVG for the subtitle (enhanced) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=700&color=4F46E5&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer;Frontend+%2B+Backend;Design+%2B+Systems+Thinking" alt="typing" />
 </p>
 
-
+<p align="center">
+  <!-- Subtle animated sparkle strip (decorative) -->
+  <img alt="sparkles" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='600' height='24' viewBox='0 0 600 24'><g fill='none' stroke='%23F59E0B' stroke-width='1'><path d='M0 12 H600' opacity='0.05'/></g><g fill='%23fff' transform='translate(6,2)'><circle cx='24' cy='10' r='1.6' fill='%23FFE082'><animate attributeName='r' values='1.2;3.6;1.2' dur='2.6s' repeatCount='indefinite' /></circle><circle cx='120' cy='6' r='1.2' fill='%23FDC5F5'><animate attributeName='r' values='0.8;3.2;0.8' dur='2.2s' begin='0.5s' repeatCount='indefinite' /></circle><circle cx='260' cy='12' r='1.4' fill='%23C7F9FF'><animate attributeName='r' values='1;3.4;1' dur='3s' begin='1s' repeatCount='indefinite' /></circle><circle cx='420' cy='8' r='1.2' fill='%23BDE8A4'><animate attributeName='r' values='0.9;3;0.9' dur='2.4s' begin='0.2s' repeatCount='indefinite' /></circle><circle cx='520' cy='14' r='1.6' fill='%23FFD6EA'><animate attributeName='r' values='1.2;4;1.2' dur='2.8s' begin='0.8s' repeatCount='indefinite' /></circle></g></svg>" />
+</p>
 
 I'm a multi-disciplinary technologist and inventor with a passion for elegant design, creative & efficient innovations, aviation, business world, and performance machines.
 
@@ -143,7 +149,7 @@ If you're looking for someone who:
 
 ### 🔖 Pinned Repositories
 
-Showcasing a few repositories you asked for — "mr-entrepreneur", "optima", "reality", and "solstice-properties". If these live under your account (github.com/vicjam3s/...), these card images will render live and link to the repos.
+Showcasing a few repositories you asked for — "mr-entrepreneur", "optima", "reality", and "solstice-properties". If these live under your account (github.com/vicjam3s/...), these card images will render.
 
 <p align="center">
   <a href="https://github.com/vicjam3s/mr-entrepreneur" target="_blank" rel="noopener noreferrer">
