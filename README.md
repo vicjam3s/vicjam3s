@@ -1,10 +1,7 @@
 <!-- ===================== HERO SECTION ===================== -->
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=3000&pause=700&color=4F46E5&center=true&vCenter=true&width=800&lines=Victor James"
-    alt="Victor James"
-  />
+<p align="center"font=Comic Sans Ms>
+  "Victor James"
 </p>
 
 <h2 align="center">
