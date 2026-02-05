@@ -1,11 +1,7 @@
 <!-- ===================== HERO SECTION ===================== -->
 
-<p align="center"font=Comic Sans Ms>
-  "Victor James"
-</p>
-
-<h2 align="center">
-  VicGrowth.Co | vicjam3s
+<h2 align="center" color="green">
+  Victor James | VicGrowth.Co | vicjam3s
 </h2>
 
 <p align="center">
