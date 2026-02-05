@@ -1,15 +1,15 @@
 <!-- ===================== HERO SECTION ===================== -->
 
-<img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='700' height='140' viewBox='0 0 700 140'><rect width='100%' height='100%' fill='transparent'/><text x='50%' y='50%' font-family='Segoe UI, Roboto, Arial, Helvetica, sans-serif' font-size='48' text-anchor='middle' dominant-baseline='middle' fill='%23FF3B3B'><tspan>Victor</tspan><tspan fill='%233B9EFF'> James</tspan><animateTransform attributeName='transform' type='translate' values='0 0;0 -8;0 0' dur='1s' repeatCount='indefinite'/></text></svg>" alt="Victor James animation" />
-</h1>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Inter&size=36&duration=3000&pause=700&color=4F46E5&center=true&vCenter=true&width=800&lines=Victor+James;Web+%26+Software+Developer+%E2%80%A2+Private+Pilot+%E2%9C%88%EF%B8%8F+%E2%80%A2+Digital+Marketer"
+    alt="Victor James — Web & Software Developer • Private Pilot✈️ • Digital Marketer"
+  />
+</p>
 
 <h2 align="center">
   VicGrowth.Co | vicjam3s
 </h2>
-
-<h3 align="center">
-  Web & Software Developer • Private Pilot ✈️ • Digital Marketer • Aviation & Car Enthusiast
-</h3>
 
 <p align="center">
   <!-- Typing SVG for the subtitle (enhanced) -->
