@@ -1,7 +1,7 @@
 <!-- ===================== HERO SECTION ===================== -->
 
 <h2 align="center" color="green">
-  Victor James | VicGrowth.Co | vicjam3s
+  vicjam3s | VicGrowth.Co 
 </h2>
 
 <p align="center">
